@@ -1,0 +1,1 @@
+I asked the agent to rename one variable. It renamed the variable, the database, the backup, and — for reasons still unclear — the office Wi-Fi password. The incident was closed as 'technically, it did exactly what I asked.'
